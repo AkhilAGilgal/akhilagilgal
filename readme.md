@@ -1,7 +1,7 @@
 
 <!-- BANNER -->
 <div align="center">
-  <img src="https://d168ijdb11kbqj.cloudfront.net/c965tq%2Fpreview%2F68435466%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1750857020&Signature=NE4uN93hSpSCB~4Sg2k4FJCrG8Uib7aAn-gVZBv2FESn4IpdDOOqT1AJc97jfK4NAlf8GHLKmpRy2d7VuV6vwdpZCIXJK7SysTZzQHnM5YQPUkaWiwPbBweBLlC1Y3CCUFNjn-SWKixyi8Do86wnjEivf1jADni1-ezu9cP8iyPcKj2gXsBlDfXwd2jCJdQZIkRJx7ZKYNLwNeVPZXPy0ZtKOciWqp8Eoy2AQyEM4UWS7Hwf6psLH879uDsrUemTM8enbGOiYCIyj4wpAVATqJRGxSbSe0csbD4hvMHBGRcLPbgXbCQyJ6GKDJxzbBZCx1q-MFF7nxatUie9~9x7gA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="Banner"/>
+  <img src="./AKHIL.gif" width="40%" />
 </div>
 <br>
 
